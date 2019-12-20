@@ -5,21 +5,12 @@ highlight_color: '#3498db'
 
 # Profile links on the left sidebar, leave blank to ignore
 social:
-  github: swanson
-  #bitbucket: philipj
-  hacker_news: swanson
-  #stackexchange: 348619
-  #stackoverflow: 348619
+  github: andresstack
   twitter: _swanson
-  #facebook: zuck
-  #tumblr: animalygifs
-  #linkedin: philipjagielski
-  #gplus: 110552447039675960964
-  #gravatar: 86e6ff8f75f9daef42d53b7f8002fd95
-  #flickr: johndoe
-
+  facebook: zuck
+  
 # "Hi, I'm _______"
-name: Matt Swanson
+name: Andres Rodríguez
 email: test@example.com
 tagline: "weak opinions, strongly held"
 
