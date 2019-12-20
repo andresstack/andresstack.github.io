@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Another sample
+title: Procesos de la Ingeniería de Información
 categories:
 - blog
 ---
